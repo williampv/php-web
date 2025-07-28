@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Inicio</title>
+    <title>Proyectos</title>
 </head>
 <body>
     <ul>
@@ -13,6 +13,6 @@
         <li><a href="/links.php">Proyectos</a></li>
     </ul>
 
-    <h1>Bienvenido a la página de inicio</h1>
+    <h1>Proyectos</h1>
 </body>
 </html>
